@@ -1,4 +1,4 @@
-[![MasterHead]<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">](https://rishavchanda.io)
+[![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/10/00-Gif-Processing-a-list-of-files-in-node.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑹𝒊𝒚𝒂</h1>
 <h3 align="center">(𝐒𝐃𝐄) 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐣𝐚𝐧𝐠𝐨 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
