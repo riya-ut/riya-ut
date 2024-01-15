@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Python🧠**
 
-- 📫 How to reach me **https://www.linkedin.com/in/riya-u-t-2168091b7/**
+- 📫 How to reach me **https://www.linkedin.com/in/riya-ut/**
 
-- ⚡ Fun fact : **Busy in Building My Carrier From Scratch**
+- ⚡ Fun Fact : **Busy in Building My Carrier From Scratch**
 
 #### 👩‍💻 Tech Stack : 
  ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
@@ -30,7 +30,7 @@
 
 <h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arjun-kurup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-ut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Analytics:</h3>
