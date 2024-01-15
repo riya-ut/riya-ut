@@ -28,7 +28,7 @@
 <br> ● CSS  ![image](https://github.com/thekurup/thekurup/assets/91071122/ee4e0597-a3b9-46ab-87be-953570a6f907)<br>
 <Br> ● AWS Hosting  ![image](https://github.com/thekurup/thekurup/assets/91071122/fd8cf33d-53fd-43ed-bbff-90fa6816c6ca)<br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-kurup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
 </p>
