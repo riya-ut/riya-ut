@@ -4,6 +4,7 @@
 <p class="big">
 <br>
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 
@@ -17,7 +18,6 @@
 
 - ⚡ Fun fact **Busy in Building My Carrier From Scratch**
 
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 #### 👩‍💻 Tech Stack : 
  ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
  <br> ● JavaScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
