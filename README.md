@@ -4,12 +4,12 @@
 <p class="big">
 <br>
 </p>
-<img align="right" alt="Coding" width="600" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
-
-<br><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 
 - 🔭 I’m currently working on Code Young as an online coding mentor
+  
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
   
 - 🌱 I’m currently learning **Python**
 
