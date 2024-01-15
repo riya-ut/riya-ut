@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif)](https://rishavchanda.io)
+[![MasterHead](https://imgur.com/ALrQfMc)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑹𝒊𝒚𝒂</h1>
 <h3 align="center">(𝐒𝐃𝐄) 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐣𝐚𝐧𝐠𝐨 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
