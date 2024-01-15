@@ -28,18 +28,8 @@
 <br> ● CSS  ![image](https://github.com/thekurup/thekurup/assets/91071122/ee4e0597-a3b9-46ab-87be-953570a6f907)<br>
 <Br> ● AWS Hosting  ![image](https://github.com/thekurup/thekurup/assets/91071122/fd8cf33d-53fd-43ed-bbff-90fa6816c6ca)<br>
 
-#### 🌍 Find me on web
-- 🐤 [Twitter](https://twitter.com/arjunkurup_): Where I share threads on data 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-kurup/): That I use to connect with professionals.
-- 📝 [Medium](https://medium.com/@arjunkurup): Where I write everything related to data.
-- 👩‍💻 [Portfolio Website](https://arjunkurup.com/): Were you can know more about my projects  and blogs 
-- 🚀 [Gumroad](): Where I create, build & share digital products.
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arjunkurup_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunkurup_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-kurup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
 </p>
 
