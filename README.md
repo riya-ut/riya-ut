@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/riya-u-t-2168091b7/**
 
-- ⚡ Fun fact **Busy in Building My Carrier From Scratch**
+- ⚡ Fun fact : **Busy in Building My Carrier From Scratch**
 
 #### 👩‍💻 Tech Stack : 
  ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
