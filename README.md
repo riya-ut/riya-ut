@@ -54,15 +54,21 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-ut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-ut&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ut&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-ut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-ut&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ut&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+
 </div>
 
 ---
@@ -71,10 +77,30 @@
 
 <div align="center">
 
-[![CRIC-IN](https://github-readme-stats.vercel.app/api/pin/?username=riya-ut&repo=virtual-cricket-game&theme=tokyonight&hide_border=true)](https://github.com/riya-ut/virtual-cricket-game)
-[![IvyCode Web](https://github-readme-stats.vercel.app/api/pin/?username=riya-ut&repo=ivycode-responsive-website&theme=tokyonight&hide_border=true)](https://github.com/riya-ut/ivycode-responsive-website)
+  <!-- CRIC-IN Project -->
+  <a href="https://github.com/riya-ut/Crick-IN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riya-ut&repo=Crick-IN&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- IvyCode Juniors Project -->
+  <a href="https://github.com/riya-ut/IVY-Code-Juniors">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riya-ut&repo=IVY-Code-Juniors&theme=tokyonight&hide_border=true" />
+  </a>
 
 </div>
+
+### 🎮 CRIC-IN - Virtual Cricket Game
+- **Tech Stack:** C++, OOP Principles  
+- **Features:** Team selection, toss simulation, scoring system, match summary  
+- **Highlights:** Modular design with object-oriented programming  
+
+### 🌐 IvyCode Juniors - Responsive Website
+- **Tech Stack:** HTML5, CSS3, Flexbox  
+- **Features:** Responsive design, hover effects, media queries  
+- **Highlights:** Modern coding platform website with elegant UI  
+
+---
+
 
 ### 🎮 CRIC-IN - Virtual Cricket Game
 - **Tech Stack:** C++, OOP Principles
