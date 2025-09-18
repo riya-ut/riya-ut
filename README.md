@@ -1,42 +1,80 @@
-[![MasterHead](https://i.imgur.com/ALrQfMc.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm 𝑹𝒊𝒚𝒂💙</h1>
-<h3 align="center">𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🤖<br> "𝐅𝐫𝐨𝐦 '𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝' 𝐭𝐨 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐢𝐧𝐭𝐫𝐢𝐜𝐚𝐭𝐞 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐞𝐯𝐞𝐫𝐲 𝐥𝐢𝐧𝐞 𝐨𝐟 𝐜𝐨𝐝𝐞 𝐢𝐬 𝐚 𝐬𝐭𝐞𝐩 𝐭𝐨𝐰𝐚𝐫𝐝 𝐦𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐚𝐫𝐭 𝐨𝐟 𝐏𝐲𝐭𝐡𝐨𝐧 . 𝐅𝐮𝐞𝐥𝐥𝐞𝐝 𝐛𝐲 𝐜𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐫𝐞𝐥𝐞𝐧𝐭𝐥𝐞𝐬𝐬 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 . 𝐄𝐚𝐜𝐡 𝐞𝐫𝐫𝐨𝐫 𝐢𝐬 𝐚 𝐥𝐞𝐬𝐬𝐨𝐧, 𝐞𝐚𝐜𝐡 𝐬𝐮𝐜𝐜𝐞𝐬𝐬 𝐚 𝐦𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞, 𝐚𝐬 𝐈 𝐬𝐜𝐮𝐥𝐩𝐭 𝐚 𝐟𝐮𝐭𝐮𝐫𝐞 𝐰𝐡𝐞𝐫𝐞 𝐏𝐲𝐭𝐡𝐨𝐧 𝐢𝐬 𝐧𝐨𝐭 𝐣𝐮𝐬𝐭 𝐚 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐛𝐮𝐭 𝐚 𝐦𝐞𝐝𝐢𝐮𝐦 𝐟𝐨𝐫 𝐛𝐨𝐮𝐧𝐝𝐥𝐞𝐬𝐬 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲. 𝐉𝐨𝐢𝐧 𝐦𝐞 𝐨𝐧 𝐭𝐡𝐢𝐬 𝐨𝐝𝐲𝐬𝐬𝐞𝐲 𝐚𝐬 𝐰𝐞 𝐮𝐧𝐫𝐚𝐯𝐞𝐥 𝐭𝐡𝐞 𝐢𝐧𝐟𝐢𝐧𝐢𝐭𝐞 𝐩𝐨𝐬𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐨𝐟 𝐏𝐲𝐭𝐡𝐨𝐧!"</h3>
-<p class="big">
-<br>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<h1 align="center">Hi 👋, I'm Riya 💙</h1>
+<h3 align="center">Full Stack Java Developer ☕ | Spring Boot | Hibernate | Problem Solver</h3>
 
+---
 
-- 🔭 I’m currently working on Code Young as an online coding mentor
-  
-- 🌱 I’m currently learning **Python**
+### 💡 About Me  
+- 🌱 Currently growing as a **Full Stack Java Developer**  
+- 💻 Skilled in **Java, Spring Boot, Hibernate, JDBC, JEE, SQL, HTML, CSS, JavaScript**  
+- 🚀 Passionate about **building scalable applications & solving real-world problems**  
+- 🎯 Goal: To contribute as a **Java Developer** in a dynamic IT environment  
+- ✨ Believer in **continuous learning, clean code, and strong fundamentals (OOPs & DSA)**  
 
-- 💬 Ask me about **Python🧠**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/riya-ut/**
+### ⚡ Tech Stack  
+#### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- ⚡ Fun Fact : **Busy in Building My Carrier From Scratch**
+#### 🔧 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
-#### 👩‍💻 Tech Stack : 
- ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
- <br> ● JavaScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
- <br> ● Django  ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
- <br> ● Machine Learning  ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
-<br> ● PostgresSQL  ![image](https://github.com/thekurup/thekurup/assets/91071122/e1e13d66-d0df-45ca-8833-f4f4fa0d218f)<br>
-<br> ● HTML  ![image](https://github.com/thekurup/thekurup/assets/91071122/2387339c-1f30-4473-ac7e-d23dbd55e349)<br>
-<br> ● CSS  ![image](https://github.com/thekurup/thekurup/assets/91071122/ee4e0597-a3b9-46ab-87be-953570a6f907)<br>
-<Br> ● AWS Hosting  ![image](https://github.com/thekurup/thekurup/assets/91071122/fd8cf33d-53fd-43ed-bbff-90fa6816c6ca)<br>
+#### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/riya-ut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
+#### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 🚀 Featured Projects  
+- ⚡ **[Virtual Cricket Game (C++)](https://github.com/riya-ut/Crick-IN)** – A C++ OOP-based cricket game  
+- 🌐 **[IVY Code Juniors (HTML, CSS, Flexbox)](https://github.com/riya-ut/IVY-Code-Juniors)** – Responsive e-learning web platform  
+- 🤖 **AI-Based Uniform Detector** – Guided students to build an AI solution featured in media  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-ut&show_icons=true&theme=tokyonight" alt="Riya's GitHub stats" />
 </p>
 
-<h3 align="left">Analytics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-ut&show_icons=true&locale=en&layout=compact" alt="riya-ut" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-ut&theme=tokyonight" alt="Riya's GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-ut&show_icons=true&locale=en" alt="riya-ut" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-ut&" alt="riya-ut" /></p>
-
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-ut" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riyaut02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/riya-ut">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
