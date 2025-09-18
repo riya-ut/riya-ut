@@ -1,6 +1,6 @@
-<!-- Banner with girl coding -->
+<!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://media.tenor.com/images/82ef6d909559f29ae14fdf267ab12ae6/tenor.gif" width="700" alt="Girl coding at laptop gif"/>
+  <img src="https://media.tenor.com/images/....../tenor.gif" width="700" alt="Girl coding at laptop" />
 </p>
 
 <h1 align="center">Hi 👋, I’m **Riya UT**</h1>
@@ -9,10 +9,10 @@
 ---
 
 ### 🌱 About Me  
-> *“Write once, run anywhere — Keep Growing with Java 🚀”*
+> *“Write once, run anywhere — Keep Growing with Java 🚀”*  
 
 - Strong experience in **Java**, Spring Boot, Hibernate, JDBC, JEE & relational databases  
-- Passionate about clean, maintainable, and scalable code  
+- Passionate about writing clean, maintainable, and scalable code  
 - Always learning: exploring microservices, design patterns & system architecture  
 - Driven by solving real problems and making software better  
 
