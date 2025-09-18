@@ -1,12 +1,13 @@
-<!-- Banner / GIF Section -->
+<!-- Java Coding Girl GIF Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/images/....../tenor.gif" width="700" alt="Girl coding at laptop" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-girl.gif" width="700" alt="Girl coding Java GIF"/>
 </p>
 
 <h1 align="center">Hi 👋, I’m **Riya UT**</h1>
 <h3 align="center">☕ Full Stack Java Developer | Spring Boot • Hibernate • Clean Code Advocate</h3>
 
 ---
+
 
 ### 🌱 About Me  
 > *“Write once, run anywhere — Keep Growing with Java 🚀”*  
