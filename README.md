@@ -1,12 +1,33 @@
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> **Quick Facts:**
-  
-  • 🏆 **3+ Years** of coding mentorship experience  
-  • 🎯 **Super Certified Mentor** at CodeYoung  
-  • 🔥 **95% Student Satisfaction Rate**  
-  • 🚀 **Full Stack Development** expertise  
-  • 🤖 **AI & Robotics** workshop conductor  
+# Hi there! I'm Riya UT 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Coding+Mentor+%26+Tech+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding" width="400"/>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/riya-ut"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"></a>
+  <a href="mailto:riyaut02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"></a>
+  <a href="tel:+916238070948"><img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"></a>
+  <img src="https://komarev.com/ghpvc/?username=riya-ut&color=36BCF7&style=for-the-badge&label=Profile+Views"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+- 🔭 **Full Stack Java Developer** with 3+ years of coding mentorship experience
+- 🎓 **B.Tech in Electrical & Electronics Engineering** from UKF College of Engineering & Technology
+- 👩‍🏫 **Certified Coding Mentor** at CodeYoung with **95% satisfaction rate**
+- 🌱 Currently exploring **Microservices Architecture** and **Spring Boot**
+- 🎯 **Vice Chair** of IEEE WIE AG UKFCET (2021-22)
+- 💡 Passionate about **AI, Robotics**, and building innovative solutions
+- 📍 Based in **Kerala, India**
 
 ---
 
