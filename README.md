@@ -1,18 +1,46 @@
-# Hi there! I'm Riya UT 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Coding+Mentor+%26+Tech+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there!%20I'm%20Riya%20UT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20coding%20universe!&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding" width="400"/>
+  <h1>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    &nbsp;Nice to see you here!&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  </h1>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/riya-ut"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"></a>
-  <a href="mailto:riyaut02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"></a>
-  <a href="tel:+916238070948"><img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=☕+Full+Stack+Java+Developer;👩‍🏫+Coding+Mentor+%26+Tech+Enthusiast;🚀+Building+Digital+Solutions+That+Matter;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding" width="450"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284075-5161c7c3-44b2-4b36-8e78-b6d4e9f95230.gif" width="20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a9f9-9d6ce3a8e0e3.gif" width="20"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="15"/>
+  <b>Let's Connect & Create Something Amazing Together!</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="15"/>
+  <br><br>
+  <a href="https://linkedin.com/in/riya-ut">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20"/>
+  </a>
+  <a href="mailto:riyaut02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="tel:+916238070948">
+    <img src="https://img.shields.io/badge/Phone-Quick_Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+  </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=riya-ut&color=36BCF7&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/riya-ut?style=for-the-badge&color=36BCF7&labelColor=1a1a2e&label=Followers"/>
 </div>
 
 ---
