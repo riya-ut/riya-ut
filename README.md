@@ -1,10 +1,15 @@
-<!-- Header Banner -->
+<!-- Java Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/coffee.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Riya 💙</h1>
 <h3 align="center">☕ Full Stack Java Developer | Spring Boot | Hibernate | Problem Solver 🚀</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="700"/>
+</p>
+
 
 ---
 
